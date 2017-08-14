@@ -1,0 +1,148 @@
+<style>
+
+.jumbotron {
+      background-color: none;
+      color: white;
+      padding: 100px 25px;
+      font-family: Montserrat, sans-serif;
+  }
+
+
+body {
+	background-color: grey;
+} 
+
+h2 {
+
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	letter-spacing : 2px;
+}
+
+h3 {
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	letter-spacing : 2px;
+}
+
+p {
+	color :white;
+	font-family : 'Raleway', sans-serif;
+	letter-spacing : 2px;
+	font-size: 20px;	
+	
+}
+
+h4 {
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	letter-spacing : 2px;
+	padding: 40px 20px 40px 50px;
+}
+
+h5 {
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	letter-spacing : 2px;
+
+}
+
+h6 {
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	letter-spacing : 4px;
+	text-align: left;
+}
+
+h7 {
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	letter-spacing : 2px;
+}
+
+h8 
+{
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	letter-spacing : 2px;
+	text-align: right;
+
+}
+.pertama {
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	letter-spacing : 2px;
+	text-align: right;
+	float: right;
+}
+
+
+ .navbar {
+      margin-bottom: 0;
+      background-color: grey;
+      z-index: 9999;
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+      font-family: 'Raleway', sans-serif;
+  }
+
+  .navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #f4511e !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+
+.img1 {
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+	padding-right: 15px;
+	padding-bottom : 20px;
+	padding-left: 15px;
+	
+}
+.imgcenter {
+      display: block;
+      margin: 0px auto;
+      text-align: center;
+      width: 600px;
+      height: 400px;
+}
+
+.kanan {
+    float: right;
+    margin: 5px;
+}
+
+.kiri {
+	float: left;
+    margin: 5px;
+}
+
+.SG {
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+</style>
