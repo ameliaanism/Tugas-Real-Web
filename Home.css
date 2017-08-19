@@ -1,15 +1,14 @@
 <style>
 
 .jumbotron {
-      background-color: none;
+      background-color: #155A1E;
       color: white;
       padding: 100px 25px;
       font-family: Montserrat, sans-serif;
-  }
-
+ }
 
 body {
-	background-color: grey;
+	background-color: #988787;
 } 
 
 h2 {
@@ -27,7 +26,7 @@ h3 {
 	letter-spacing : 2px;
 }
 
-p {
+.kedua {
 	color :white;
 	font-family : 'Raleway', sans-serif;
 	letter-spacing : 2px;
@@ -48,6 +47,7 @@ h5 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
 	letter-spacing : 2px;
+	text-decoration: underline;
 
 }
 
@@ -64,6 +64,10 @@ h7 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 15px;
 	letter-spacing : 2px;
+	padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
 }
 
 h8 
@@ -72,14 +76,14 @@ h8
 	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
 	letter-spacing : 2px;
-	text-align: right;
-
+	float: right;	
+	text-decoration: underline;
 }
 .pertama {
 	color : white;
 	font-family: 'Raleway', sans-serif;
 	font-size: 15px;
-	letter-spacing : 2px;
+	letter-spacing : 4px;
 	text-align: right;
 	float: right;
 }
@@ -87,7 +91,7 @@ h8
 
  .navbar {
       margin-bottom: 0;
-      background-color: grey;
+      background-color: #988787;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -120,6 +124,7 @@ h8
 	padding-left: 15px;
 	
 }
+
 .imgcenter {
       display: block;
       margin: 0px auto;
@@ -135,14 +140,29 @@ h8
 
 .kiri {
 	float: left;
-    margin: 5px;
+
 }
 
-.SG {
-	padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+.ketiga {
+	color :white;
+	font-family : 'Raleway', sans-serif;
+	letter-spacing : 2px;
+	font-size: 15px;		
 }
+
+/*h9
+{
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 10px;
+	letter-spacing : 2px;
+	float: left;	
+}
+*/
+.first-box{padding:10px;background:#D6B396;}
+.second-box{padding:10px; background:#74bfa6;}
+.third-box{padding:10px;background:#F66;}
+.fourth-box{padding:10px;background:#e7de7d;}
+
 
 </style>
